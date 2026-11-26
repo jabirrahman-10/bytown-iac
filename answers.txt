@@ -1,0 +1,4 @@
+Q1: Terraform detected the missing container as drift and recreated it; code keeps infrastructure consistent and repeatable.
+Q2: Terraform state can contain sensitive data and machine-specific details, so it must stay local and out of Git.
+Q3: Terraform creates and manages infrastructure; Ansible configures software and settings on existing machines.
+Q4: The cloud provider secures physical data centers; I secure the operating system, access, and data on my cloud VM.
